@@ -6,7 +6,7 @@ from selenium.webdriver.common.keys import Keys
 from os import path, mkdir
 
 wait = 5
-sekolah = 'Palangsari1'
+sekolah = 'SDNTawangrejo2Pandaan'
 
 def klik(elemXPath):
     sleep(2)
